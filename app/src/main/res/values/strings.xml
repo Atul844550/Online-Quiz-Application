@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BrainFlex</string>
+    <string name="get_started_text">Welcome to Quizz Application</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="hostel">Welcome to Several Point Hostel, your ultimate student living destination walking distance to LPU University in Phagwara, Punjab. Since 2012, we have been providing students with spacious rooms and top-notch amenities at affordable rates, ensuring both comfort and academic success. Air-conditioned rooms, 24/7 security, in-house laundry, and common study areas, all within a prime location that offers easy access to campus facilities. Enjoy delicious food at in house Mess in well laid out Dinning Hall. Our vibrant community and recreational zones foster lasting friendships and a well-rounded college experience. Choose Several Point Hostel for a supportive, luxurious, and budget-friendly home away from home.</string>
+
+</resources>
